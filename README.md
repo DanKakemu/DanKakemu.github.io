@@ -1,5 +1,4 @@
 # DanKakemu.github.io
-theme: archtect.
 Test website
 # H1
 ## H2
